@@ -1,4 +1,4 @@
-dataGen.cpp : 数据生成代码
+dataGen.cpp : 数据生成
 main.cpp : main函数及网络流构图部分
 ioproc.cpp : 处理输入输出的一些函数的实现
 include/
